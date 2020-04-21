@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587155794 source:c:\users\crist\onedrive\escritorio\calculadora\funciones.c
+
+1587154730 source:c:\users\crist\onedrive\escritorio\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
