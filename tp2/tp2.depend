@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1589694687 source:c:\users\crist\onedrive\escritorio\tp2\main.c
+	"clientes.h"
+
+1589694500 source:c:\users\crist\onedrive\escritorio\tp2\clientes.c
+	"clientes.h"
+
+1589695665 c:\users\crist\onedrive\escritorio\tp2\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
